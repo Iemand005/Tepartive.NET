@@ -5,7 +5,7 @@
 		"titleBar.activeForeground": "#FEFBFB",
 		"titleBar.inactiveBackground": "#511C1C",
 		"titleBar.inactiveForeground": "#FEFBFB",
-		"statusBar.background": "#004991",
+		"statusBar.background": "#ff7a00",
 		"statusBar.foreground": "#FEFBFB",
 		"statusBar.debuggingBackground": "#511C1C",
 		"statusBar.debuggingForeground": "#FEFBFB",
